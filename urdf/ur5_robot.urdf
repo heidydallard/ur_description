@@ -35,7 +35,7 @@
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur5/collision/Base.dae"/>
+        <mesh filename="package://ur_description/meshes/ur5/collision_svg/Base.dae"/>
       </geometry>
     </collision>
     <inertial>
@@ -62,7 +62,7 @@
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur5/collision/Shoulder.dae"/>
+        <mesh filename="package://ur_description/meshes/ur5/collision_svg/Shoulder.dae"/>
       </geometry>
     </collision>
     <inertial>
@@ -89,7 +89,7 @@
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur5/collision/UpperArm.dae"/>
+        <mesh filename="package://ur_description/meshes/ur5/collision_svg/UpperArm.dae"/>
       </geometry>
     </collision>
     <inertial>
@@ -116,7 +116,7 @@
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur5/collision/Forearm.dae"/>
+        <mesh filename="package://ur_description/meshes/ur5/collision_svg/Forearm.dae"/>
       </geometry>
     </collision>
     <inertial>
@@ -143,7 +143,7 @@
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur5/collision/Wrist1.dae"/>
+        <mesh filename="package://ur_description/meshes/ur5/collision_svg/Wrist1.dae"/>
       </geometry>
     </collision>
     <inertial>
@@ -170,7 +170,7 @@
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur5/collision/Wrist2.dae"/>
+        <mesh filename="package://ur_description/meshes/ur5/collision_svg/Wrist2.dae"/>
       </geometry>
     </collision>
     <inertial>
@@ -197,7 +197,7 @@
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://ur_description/meshes/ur5/collision/Wrist3.dae"/>
+        <mesh filename="package://ur_description/meshes/ur5/collision_svg/Wrist3.dae"/>
       </geometry>
     </collision>
     <inertial>
