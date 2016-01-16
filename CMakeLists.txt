@@ -53,5 +53,10 @@ install (FILES
   src/hpp/corbaserver/ur5_robot/robot.py
   src/hpp/corbaserver/ur5_robot/__init__.py
   DESTINATION ${PYTHON_SITELIB}/hpp/corbaserver/ur5_robot)
+
+install(FILES
+  package.xml
+  DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
+  )
   
 SETUP_PROJECT_FINALIZE()
