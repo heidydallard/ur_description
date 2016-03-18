@@ -39,6 +39,21 @@ install(FILES
   urdf/table.urdf
   urdf/obstacles.urdf
   urdf/obstacle_sphere.urdf
+
+  urdf/gazebo.urdf.xacro
+  urdf/ur10.gazebo.xacro
+  urdf/ur10.transmission.xacro
+  urdf/ur10.urdf.xacro
+  urdf/ur10_joint_limited.urdf.xacro
+  urdf/ur10_joint_limited_robot.urdf.xacro
+  urdf/ur10_robot.urdf.xacro
+  urdf/ur5.gazebo.xacro
+  urdf/ur5.transmission.xacro
+  urdf/ur5.urdf.xacro
+  urdf/ur5_joint_limited_robot.urdf.xacro
+  urdf/ur5_robot.urdf
+  urdf/ur5_robot.urdf.xacro
+
   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}/urdf
   )
 
