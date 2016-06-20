@@ -39,6 +39,9 @@ install(FILES
   urdf/table.urdf
   urdf/obstacles.urdf
   urdf/obstacle_sphere.urdf
+  urdf/ur5.urdf.xacro
+  urdf/ur5.transmission.xacro
+  urdf/ur5.gazebo.xacro
   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}/urdf
   )
 
